@@ -1,0 +1,16 @@
+1703277105
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:25:"blog/daring-fireball-link";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:5:{s:5:"title";s:21:"DF Style Article Link";s:4:"date";s:16:"13:34 07/23/2017";s:13:"continue_link";b:1;s:4:"link";s:25:"http://daringfireball.net";s:8:"taxonomy";a:2:{s:8:"category";s:4:"blog";s:3:"tag";a:2:{i:0;s:7:"journal";i:1;s:4:"link";}}}s:11:"frontmatter";s:157:"title: DF Style Article Link
+date: 13:34 07/23/2017
+continue_link: true
+link: http://daringfireball.net
+taxonomy:
+    category: blog
+    tag: [journal, link]";s:8:"markdown";s:245:"The blog skeleton also supports **Daring Fireball** style link posts.  Simply add a link setting in your page header:
+
+```
+link: http://daringfireball.net
+```
+
+And your blog title becomes a link directly to that link you specified. Easy peasy!
+
+";}s:7:"storage";a:6:{s:3:"key";s:25:"blog/daring-fireball-link";s:11:"storage_key";s:28:"01.blog/daring-fireball-link";s:8:"template";s:4:"item";s:17:"storage_timestamp";i:1701983134;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"item";i:1697128334;}}s:8:"checksum";s:32:"586aa8f03fe6acb202cb09e7e0618d31";}}

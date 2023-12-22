@@ -1,0 +1,7 @@
+1703279374
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:22:"blog/_important-notice";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:5:{s:11:"alert_color";s:4:"blue";s:5:"title";s:16:"Important Notice";s:9:"published";b:0;s:7:"visible";b:1;s:23:"hide_git_sync_repo_link";b:0;}s:11:"frontmatter";s:105:"alert_color: blue
+title: 'Important Notice'
+published: false
+visible: true
+hide_git_sync_repo_link: false";s:8:"markdown";s:24:"Sample Important Notice
+";}s:7:"storage";a:8:{s:3:"key";s:22:"blog/_important-notice";s:11:"storage_key";s:32:"01.blog/_important-notice|alert.";s:8:"template";s:5:"alert";s:17:"storage_timestamp";i:1702947219;s:8:"markdown";a:1:{s:0:"";a:1:{s:5:"alert";i:1702947219;}}s:8:"checksum";s:32:"da71946634468a1607a2d3674d17d030";s:6:"exists";b:1;s:4:"lang";s:0:"";}}

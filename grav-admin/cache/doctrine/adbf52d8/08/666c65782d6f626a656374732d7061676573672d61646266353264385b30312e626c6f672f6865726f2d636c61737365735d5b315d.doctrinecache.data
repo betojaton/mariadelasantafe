@@ -1,0 +1,45 @@
+1703278454
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:17:"blog/hero-classes";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:8:{s:5:"title";s:19:"Body & Hero Classes";s:4:"date";s:16:"14:55 08/11/2017";s:6:"author";s:13:"Tasha Maxwell";s:13:"continue_link";b:1;s:12:"hero_classes";s:63:"text-light title-h1h2 overlay-dark-gradient hero-large parallax";s:10:"hero_image";s:31:"unsplash-overcast-mountains.jpg";s:8:"taxonomy";a:2:{s:8:"category";s:4:"blog";s:3:"tag";a:2:{i:0;s:7:"journal";i:1;s:11:"photography";}}s:21:"header_image_alt_text";s:9:"Mountains";}s:11:"frontmatter";s:307:"title: Body & Hero Classes
+date: 14:55 08/11/2017
+author: Tasha Maxwell
+continue_link: true
+hero_classes: text-light title-h1h2 overlay-dark-gradient hero-large parallax
+hero_image: unsplash-overcast-mountains.jpg
+taxonomy:
+    category: blog
+    tag: [journal, photography]
+header_image_alt_text: Mountains";s:8:"markdown";s:1767:"The [Quark theme](https://getgrav.org/downloads/themes) has the ability to allow pages to override some of the default options by letting the user set `body_classes` for any page.  The theme will merge the combination of the defaults with any `body_classes` set. This allows you to easily add hero classes to give your blog post some **bling**.
+
+===
+
+## Body Classes
+
+```yaml
+body_classes: "header-dark header-transparent"
+```
+
+On a particular page will ensure that page has those options enabled (assuming they are false by default).
+
+## Hero Options
+
+The hero template allows some options to be set in the page frontmatter. This is used by the modular `hero` as well as the blog and item templates to provide a more dynamic header.
+
+```yaml
+hero_classes: text-light title-h1h2 parallax overlay-dark-gradient hero-large
+hero_image: road.jpg
+hero_align: center
+```
+
+The `hero_classes` option allows a variety of hero classes to be set dynamically these include:
+
+* `text-light` | `text-dark` - Controls if the text should be light or dark depending on the content
+* `title-h1h2` - Enforced a close matched h1/h2 title pairing
+* `parallax` - Enables a CSS-powered parallax effect
+* `overlay-dark-gradient` - Displays a transparent gradient which further darkens the underlying image
+* `overlay-light-gradient` - Displays a transparent gradient which further lightens the underlying image
+* `overlay-dark` - Displays a solid transparent overlay which further darkens the underlying image
+* `overlay-light` - Displays a solid transparent overlay which further darkens the underlying image
+* `hero-fullscreen` | `hero-large` | `hero-medium` | `hero-small` | `hero-tiny` - Size of the hero block
+
+The `hero_image` should point to an image file in the current page folder.
+";}s:7:"storage";a:6:{s:3:"key";s:17:"blog/hero-classes";s:11:"storage_key";s:20:"01.blog/hero-classes";s:8:"template";s:4:"item";s:17:"storage_timestamp";i:1701992123;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"item";i:1701992123;}}s:8:"checksum";s:32:"2f90d886e240e14ccaca758f8806961b";}}

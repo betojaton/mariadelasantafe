@@ -1,0 +1,24 @@
+1703277285
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:6:"novena";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:3:{s:5:"title";s:6:"Novena";s:4:"date";s:16:"07-12-2023 20:18";s:23:"hide_git_sync_repo_link";b:0;}s:11:"frontmatter";s:69:"title: Novena
+date: '07-12-2023 20:18'
+hide_git_sync_repo_link: false";s:8:"markdown";s:926:"## Intención para la Novena a la Santísima Virgen Nuestra Señora María de la Santa Fe.
+
+**Comienza el domingo 31 de mayo de 2015 y finaliza el lunes 8 de junio de 2015**
+![](corazon-jesus-cuadro.jpg)
+
+**Le dice la Santísima Virgen a Vicente:**  
+
+Vicente hijo mío: Rezad en esta próxima novena con estas intenciones.
+
+===
+
+Pedid al Corazón de Jesús por la paz del mundo y en las familias, pedid al Corazón de Jesús el aumento de vocaciones, pedid hijitos míos al Corazón de Jesús la conversión de los pecadores, suplicad con insistencia y no dejáis de rezar por las almas que están en caminos equivocados y tortuosos, pedid y suplica mucho por los jóvenes que aun permanecen atrapados en la nebulosa de los vicios-
+
+Aquí está María, la Madre de la humanidad invitando a cada hijo a la permanente oración.
+
+Meditad este profundo Mensaje.
+
+Amén, Gloria al Altísimo.
+
+Predica esta novena al mundo entero.
+";}s:7:"storage";a:8:{s:3:"key";s:6:"novena";s:11:"storage_key";s:18:"11.novena|default.";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1702486151;s:8:"markdown";a:1:{s:0:"";a:1:{s:7:"default";i:1702486151;}}s:8:"checksum";s:32:"2c6c8ab4dbb1c533223077407ea68e4b";s:6:"exists";b:1;s:4:"lang";s:0:"";}}

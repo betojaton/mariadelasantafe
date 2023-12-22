@@ -1,0 +1,16 @@
+1703278440
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:53:"blog/consagracion-de-la-argentina-san-miguel-arcangel";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:5:{s:5:"title";s:55:"Consagración de la Argentina de San Miguel de Arcangel";s:4:"date";s:24:"2023-02-01T00:04:45+00:0";s:13:"continue_link";b:1;s:8:"taxonomy";a:2:{s:8:"category";s:4:"blog";s:3:"tag";s:7:"Mensaje";}s:10:"hero_image";s:39:"angelica-reyes-cs9v06TuiT8-unsplash.jpg";}s:11:"frontmatter";s:215:"title: 'Consagración de la Argentina de San Miguel de Arcangel'
+date: '2023-02-01T00:04:45+00:0'
+continue_link: true
+taxonomy:
+    category: blog
+    tag: Mensaje
+hero_image: angelica-reyes-cs9v06TuiT8-unsplash.jpg";s:8:"markdown";s:895:"![Foto de Angelica Reyes](angelica-reyes-cs9v06TuiT8-unsplash.jpg?cropResize=200,200&classes=right) 
+"Oh Glorioso Principe de la Milicia Celestial, ven en ayuda de esté pueblo abatido y herido por las persecuciones contra los Santos, San Miguel Arcangel libera por tu inmenso poder a esta Argentina y a lo largo y ancho de estas tierras bendecidas por le mano de Dios levanta una muralla de fuego que impida que avancen los enemigos de la Santa Iglesia y de la Fe. Consagramos este Patria Argentina Tan acrisolada por años y que florezca Una Nueva Nacion donde reine la justicia la páz y el perdón. San Miguel Arcangel defiéndenos en las batalla. Amén.
+
+===
+
+![Foto de Angelica Reyes](angelica-reyes-cs9v06TuiT8-unsplash.jpg?thumbnail=default&display=thumbnail)
+
+> Gloria al Padre, al Hijo y al Espíritu Santo como era en el principio ahora y siempre por los siglos de los siglos. Amén.
+";}s:7:"storage";a:6:{s:3:"key";s:53:"blog/consagracion-de-la-argentina-san-miguel-arcangel";s:11:"storage_key";s:56:"01.blog/consagracion-de-la-argentina-san-miguel-arcangel";s:8:"template";s:4:"item";s:17:"storage_timestamp";i:1703273113;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"item";i:1703273113;}}s:8:"checksum";s:32:"47907bae08a6e1f8419723c2401888a2";}}

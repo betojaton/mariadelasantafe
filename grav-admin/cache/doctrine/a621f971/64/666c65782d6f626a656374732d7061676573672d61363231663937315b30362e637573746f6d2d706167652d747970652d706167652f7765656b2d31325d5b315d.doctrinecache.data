@@ -1,0 +1,8 @@
+1703277105
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:29:"custom-page-type-page/week-12";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:7:{s:5:"title";s:43:"Week 11 - How to Give and Receive Criticism";s:18:"embedly_card_title";s:33:"How to Give and Receive Criticism";s:22:"embedly_card_alignment";s:4:"left";s:16:"embedly_card_url";s:67:"http://scottberkun.com/essays/35-how-to-give-and-receive-criticism/";s:9:"published";b:1;s:7:"visible";b:0;s:12:"cache_enable";b:0;}s:11:"frontmatter";s:276:"title: 'Week 11 - How to Give and Receive Criticism'
+embedly_card_title: 'How to Give and Receive Criticism'
+embedly_card_alignment: left
+embedly_card_url: 'http://scottberkun.com/essays/35-how-to-give-and-receive-criticism/'
+published: true
+visible: false
+cache_enable: false";s:8:"markdown";s:0:"";}s:7:"storage";a:6:{s:3:"key";s:29:"custom-page-type-page/week-12";s:11:"storage_key";s:32:"06.custom-page-type-page/week-12";s:8:"template";s:11:"embedlycard";s:17:"storage_timestamp";i:1701983135;s:8:"markdown";a:1:{s:0:"";a:1:{s:11:"embedlycard";i:1697128334;}}s:8:"checksum";s:32:"93d38d79cda1abecdff5685634aa315a";}}

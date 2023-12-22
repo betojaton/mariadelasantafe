@@ -1,0 +1,12 @@
+1703278088
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:21:"custom-page-type-page";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:6:{s:5:"title";s:22:"Custom Page Types Page";s:9:"published";b:0;s:7:"visible";b:1;s:7:"content";a:3:{s:5:"order";a:2:{s:2:"by";s:7:"default";s:3:"dir";s:3:"asc";}s:5:"items";s:14:"@self.children";s:5:"limit";i:0;}s:23:"hide_git_sync_repo_link";b:1;s:25:"display_child_page_titles";b:1;}s:11:"frontmatter";s:222:"title: 'Custom Page Types Page'
+published: false
+visible: true
+content:
+    order:
+        by: default
+        dir: asc
+    items: '@self.children'
+    limit: 0
+hide_git_sync_repo_link: true
+display_child_page_titles: true";s:8:"markdown";s:0:"";}s:7:"storage";a:7:{s:3:"key";s:21:"custom-page-type-page";s:11:"storage_key";s:24:"06.custom-page-type-page";s:8:"template";s:15:"custompagetypes";s:17:"storage_timestamp";i:1701983135;s:8:"markdown";a:1:{s:0:"";a:1:{s:15:"custompagetypes";i:1697128334;}}s:8:"children";a:11:{s:7:"week-01";b:0;s:7:"week-02";b:0;s:7:"week-03";b:0;s:7:"week-04";b:0;s:7:"week-05";b:0;s:7:"week-06";b:0;s:7:"week-07";b:0;s:7:"week-08";b:0;s:7:"week-10";b:0;s:7:"week-11";b:0;s:7:"week-12";b:0;}s:8:"checksum";s:32:"b4905462349aa1092a49e3a1469f3284";}}

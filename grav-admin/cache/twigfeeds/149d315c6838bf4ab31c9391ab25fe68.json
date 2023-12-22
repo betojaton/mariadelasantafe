@@ -1,0 +1,66 @@
+{
+    "title": "BBC News - UK",
+    "name": "149d315c6838bf4ab31c9391ab25fe68.json",
+    "last_modified": {
+        "date": "2023-12-22 17:21:51.092751",
+        "timezone_type": 3,
+        "timezone": "America\/Argentina\/Cordoba"
+    },
+    "timestamp": 1703276511,
+    "last_checked": 1703276508,
+    "amount": 4,
+    "items": [
+        {
+            "categories": [],
+            "author": null,
+            "lastModified": "2023-12-22T15:45:02-03:00",
+            "title": "New \u00a338,700 visa rule will be introduced in early 2025, says Rishi Sunak",
+            "publicId": "https:\/\/www.bbc.co.uk\/news\/uk-politics-67801167",
+            "link": "https:\/\/www.bbc.co.uk\/news\/uk-politics-67801167?at_medium=RSS&at_campaign=KARANGA",
+            "host": "\/\/www.bbc.co.uk",
+            "elements": [],
+            "medias": [],
+            "summary": null,
+            "content": "The minimum salary for a family to come to the UK will increase in two stages, the prime minister says."
+        },
+        {
+            "categories": [],
+            "author": null,
+            "lastModified": "2023-12-22T12:59:04-03:00",
+            "title": "Alex Batty: Police launch abduction investigation into disappearance of British teen",
+            "publicId": "https:\/\/www.bbc.co.uk\/news\/uk-67803339",
+            "link": "https:\/\/www.bbc.co.uk\/news\/uk-67803339?at_medium=RSS&at_campaign=KARANGA",
+            "host": "\/\/www.bbc.co.uk",
+            "elements": [],
+            "medias": [],
+            "summary": null,
+            "content": "Alex Batty, 17, who returned to the UK this week, went missing while on holiday at the age of 11."
+        },
+        {
+            "categories": [],
+            "author": null,
+            "lastModified": "2023-12-22T15:11:37-03:00",
+            "title": "Lawyers told ministers schools trans advice was 'high risk'",
+            "publicId": "https:\/\/www.bbc.co.uk\/news\/uk-67794387",
+            "link": "https:\/\/www.bbc.co.uk\/news\/uk-67794387?at_medium=RSS&at_campaign=KARANGA",
+            "host": "\/\/www.bbc.co.uk",
+            "elements": [],
+            "medias": [],
+            "summary": null,
+            "content": "Leaked document suggests lawyers warned government guidance puts schools at risk of being sued."
+        },
+        {
+            "categories": [],
+            "author": null,
+            "lastModified": "2023-12-22T14:37:28-03:00",
+            "title": "Last Christmas scores Christmas number one, beating Sam Ryder and Mariah Carey",
+            "publicId": "https:\/\/www.bbc.co.uk\/news\/entertainment-arts-67800521",
+            "link": "https:\/\/www.bbc.co.uk\/news\/entertainment-arts-67800521?at_medium=RSS&at_campaign=KARANGA",
+            "host": "\/\/www.bbc.co.uk",
+            "elements": [],
+            "medias": [],
+            "summary": null,
+            "content": "Wham's festive classic tops the Christmas chart for the first time, 39 years after its release."
+        }
+    ]
+}

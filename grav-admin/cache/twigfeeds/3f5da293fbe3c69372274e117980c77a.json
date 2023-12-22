@@ -1,0 +1,85 @@
+{
+    "title": "NYT > World News",
+    "name": "NY Times",
+    "last_modified": {
+        "date": "2023-12-22 17:57:11.502189",
+        "timezone_type": 3,
+        "timezone": "America\/Argentina\/Cordoba"
+    },
+    "timestamp": 1703278631,
+    "last_checked": 1703278630,
+    "amount": 2,
+    "items": [
+        {
+            "categories": [],
+            "author": {
+                "name": "The New York Times",
+                "uri": null,
+                "email": null
+            },
+            "lastModified": "2023-12-22T17:52:06-03:00",
+            "title": "Israel-Hamas War: U.N. Security Council Passes Gaza Aid Resolution as U.S. Abstains",
+            "publicId": "https:\/\/www.nytimes.com\/live\/2023\/12\/22\/world\/israel-hamas-war-gaza-news",
+            "link": "https:\/\/www.nytimes.com\/live\/2023\/12\/22\/world\/israel-hamas-war-gaza-news",
+            "host": "\/\/www.nytimes.com",
+            "elements": {
+                "atom:link": "",
+                "media:credit": "Ahmad Hasaballah\/Getty Images",
+                "media:description": "Displaced Palestinians in Al-Mawasi in the southern Gaza Strip on Thursday."
+            },
+            "medias": [
+                {
+                    "nodeName": "media:content",
+                    "type": null,
+                    "url": "https:\/\/static01.nyt.com\/images\/2023\/12\/22\/multimedia\/22israel-hamas-briefing-header-mlzw\/22israel-hamas-briefing-header-mlzw-mediumSquareAt3X.jpg",
+                    "length": null,
+                    "title": null,
+                    "description": null,
+                    "thumbnail": null
+                }
+            ],
+            "summary": null,
+            "content": "The measure calls for a major increase in aid to beleaguered Palestinian civilians. It came after days of negotiations to win support from the White House and the Israeli government."
+        },
+        {
+            "categories": [
+                "Prague (Czech Republic)",
+                "Charles University (Prague, Czech Republic)",
+                "Mass Shootings",
+                "Murders, Attempted Murders and Homicides",
+                "School Shootings and Armed Attacks",
+                "Gun Control",
+                "Firearms",
+                "Crime and Criminals"
+            ],
+            "author": {
+                "name": "Andrew Higgins and Jenny Gross",
+                "uri": null,
+                "email": null
+            },
+            "lastModified": "2023-12-22T17:22:34-03:00",
+            "title": "Mass Shooting in Prague Brings Grief and a Focus on Guns",
+            "publicId": "https:\/\/www.nytimes.com\/2023\/12\/22\/world\/europe\/prague-university-shooting.html",
+            "link": "https:\/\/www.nytimes.com\/2023\/12\/22\/world\/europe\/prague-university-shooting.html",
+            "host": "\/\/www.nytimes.com",
+            "elements": {
+                "atom:link": "",
+                "media:credit": "Martin Divisek\/EPA, via Shutterstock",
+                "media:description": "Police officers outside a Charles University building in Prague on Friday."
+            },
+            "medias": [
+                {
+                    "nodeName": "media:content",
+                    "type": null,
+                    "url": "https:\/\/static01.nyt.com\/images\/2023\/12\/22\/multimedia\/22czech-shooting-bfmq\/22czech-shooting-bfmq-mediumSquareAt3X.jpg",
+                    "length": null,
+                    "title": null,
+                    "description": null,
+                    "thumbnail": null
+                }
+            ],
+            "summary": null,
+            "content": "After a student killed 14 people at a premier university, questions swirled. Did the Czech Republic\u2019s permissive attitude toward gun ownership play a role?"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+1703277199
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:7:"sidebar";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:4:{s:5:"title";s:7:"Sidebar";s:8:"routable";b:0;s:7:"visible";b:0;s:8:"position";s:3:"top";}s:11:"frontmatter";s:59:"title: Sidebar
+routable: false
+visible: false
+position: top";s:8:"markdown";s:35:"#### Markdown Area
+
+Some text here.";}s:7:"storage";a:6:{s:3:"key";s:7:"sidebar";s:11:"storage_key";s:7:"sidebar";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1701983135;s:8:"markdown";a:1:{s:0:"";a:1:{s:7:"default";i:1697128334;}}s:8:"checksum";s:32:"b6163e6923ef9414310946eb1ea1659b";}}
